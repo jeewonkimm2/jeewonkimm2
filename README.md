@@ -5,6 +5,7 @@
 - 🇬🇧 I lived in London, United Kingdom for 2 years (2019-2021).
 - 👗 I like buying new fashion items.
 - 💭 I would like to become a cool data engineer😎, hopefully.
+- ✨ I believe inspiration is everywhere.
 
 <!---
 jeewonkimm2/jeewonkimm2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
