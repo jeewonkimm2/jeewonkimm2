@@ -4,7 +4,7 @@
 - 💞️ I’m based in Seoul, South Korea now, but my hometown is Mokpo, South Korea.
 - 🇬🇧 I lived in London, United Kingdom for 2 years (2019-2021).
 - 👗 I like buying new fashion items.
-- 💭 I would like to become a cool data engineer or scientist, hopefully.
+- 💭 I would like to become a cool data person.
 - ✨ I believe inspiration is everywhere.
 
 <!---
