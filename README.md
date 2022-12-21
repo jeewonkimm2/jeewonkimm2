@@ -2,6 +2,10 @@
 
 # **Hello, I am Jeewon !** 🌸
   
+![IMG_2811](https://user-images.githubusercontent.com/108987773/208809175-7c5a0bc0-be68-4c23-be05-bc422203deca.JPG)
+
+  
+  
 👋🏼 Hi, there! My name is Jeewon Kim.
   
 👀 I’m interested in data.
@@ -20,7 +24,7 @@
   
   <br>
   
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23EFD94B&title_bg=%236DBA68&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/jeewonkimm2)  
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjeewonkimm2&count_bg=%23EBCC37&title_bg=%23805500&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) 
 
   
   ## ✨Skills✨
