@@ -2,7 +2,8 @@
 
 # **Hello, I am Jeewon !** 🌸
   
-![IMG_2811](https://user-images.githubusercontent.com/108987773/208809175-7c5a0bc0-be68-4c23-be05-bc422203deca.JPG)
+![IMG_2811](https://user-images.githubusercontent.com/108987773/208824891-7ac34c5f-1034-412e-92ea-605bea4e49e9.JPG)
+
 
   
   
@@ -35,7 +36,7 @@
   
   ## ✨Contact✨
   
-<a href="mailto:jeewoncoding@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/> <a href="https://www.instagram.com/jeewonkimm/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/> <a href="https://www.linkedin.com/in/jeewon-kim-06056a236/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/>
+<a href="mailto:jeewoncoding@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/> <a href="https://www.linkedin.com/in/jeewon-kim-06056a236/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/> <a href="https://www.instagram.com/jeewonkimm/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>
 
 
 <br>
