@@ -2,7 +2,7 @@
 
 # **Hello, I am Jeewon !** 🌸
   
-![IMG_2811](https://user-images.githubusercontent.com/108987773/208824891-7ac34c5f-1034-412e-92ea-605bea4e49e9.JPG)
+<!-- ![IMG_2811](https://user-images.githubusercontent.com/108987773/208824891-7ac34c5f-1034-412e-92ea-605bea4e49e9.JPG) -->
 
 
   
