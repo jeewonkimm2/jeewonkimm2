@@ -1,6 +1,19 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hello!안녕하세요!&fontSize=50)
+# **Hello, I am Jeewon !** 🌸
+  
+  <br>
+  
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23EFD94B&title_bg=%236DBA68&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/jeewonkimm2)  
+
+  
+  ## ✨Skills✨
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/> <br> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/> <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> <br> <img src="https://img.shields.io/badge/Apache Spark-E25A1C?style=flat-square&logo=Apache Spark&logoColor=white"/> <img src="https://img.shields.io/badge/Apache Kafka-231F20?style=flat-square&logo=Apache Kafka&logoColor=white"/> <img src="https://img.shields.io/badge/Apache Airflow-017CEE?style=flat-square&logo=Apache Airflow&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/>
+  
+  ## ✨Contact✨
+  
+
+
 
 
 👋 Hi, I’m Jeewon Kim.
@@ -22,6 +35,8 @@
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeewonkimm2)](https://github.com/anuraghazra/github-readme-stats) 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeewonkimm2&show_icons=true)
+  
+                    
 
 </div>
   
