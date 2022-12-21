@@ -2,38 +2,42 @@
 
 # **Hello, I am Jeewon !** 🌸
   
+👋🏼 Hi, there! My name is Jeewon Kim.
+  
+👀 I’m interested in data.
+  
+👩🏻‍💻 I’m currently learning Information Technology and Management in Seoul National University of Science and Technology, and Information Technology Management for Business in Northumbria University as a dual degree.
+  
+🇰🇷 I’m based in Seoul, South Korea now, but my hometown is Mokpo, South Korea.
+  
+🇬🇧 I lived in London, United Kingdom for 2 years (2019-2021).
+  
+👗 I like buying new fashion items.
+  
+🌟 I would like to become a cool data person.
+  
+🌏 I believe inspiration is everywhere.
+  
   <br>
   
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23EFD94B&title_bg=%236DBA68&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/jeewonkimm2)  
 
   
   ## ✨Skills✨
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/> <br> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/> <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> <br> <img src="https://img.shields.io/badge/Apache Spark-E25A1C?style=flat-square&logo=Apache Spark&logoColor=white"/> <img src="https://img.shields.io/badge/Apache Kafka-231F20?style=flat-square&logo=Apache Kafka&logoColor=white"/> <img src="https://img.shields.io/badge/Apache Airflow-017CEE?style=flat-square&logo=Apache Airflow&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/> <br> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/> <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white"/>
+ <br> <img src="https://img.shields.io/badge/Apache Spark-E25A1C?style=flat-square&logo=Apache Spark&logoColor=white"/> <img src="https://img.shields.io/badge/Apache Kafka-231F20?style=flat-square&logo=Apache Kafka&logoColor=white"/> <img src="https://img.shields.io/badge/Apache Airflow-017CEE?style=flat-square&logo=Apache Airflow&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/>
+  
+  <br>
   
   ## ✨Contact✨
   
+<a href="mailto:jeewoncoding@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/> <a href="https://www.instagram.com/jeewonkimm/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/> <a href="https://www.linkedin.com/in/jeewon-kim-06056a236/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/>
 
 
-
-
-👋 Hi, I’m Jeewon Kim.
+<br>
   
-👀 I’m interested in data.
-  
-🌱 I’m currently learning Information Technology and Management in Seoul National University of Science and Technology, and Information Technology Management for Business in Northumbria University as a dual degree.
-  
-💞️ I’m based in Seoul, South Korea now, but my hometown is Mokpo, South Korea.
-  
-🇬🇧 I lived in London, United Kingdom for 2 years (2019-2021).
-  
-👗 I like buying new fashion items.
-  
-💭 I would like to become a cool data person.
-  
-✨ I believe inspiration is everywhere.
-
-
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeewonkimm2)](https://github.com/anuraghazra/github-readme-stats) 
+  
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeewonkimm2&show_icons=true)
   
                     
