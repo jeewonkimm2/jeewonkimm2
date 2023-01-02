@@ -36,7 +36,7 @@
   
   ## ✨Contact✨
   
-<a href="mailto:jeewoncoding@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/> <a href="https://www.linkedin.com/in/jeewon-kim-06056a236/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/> <a href="https://www.instagram.com/jeewonkimm/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>
+<a href="mailto:jeewoncoding@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/> <a href="https://https://www.linkedin.com/in/jeewonkimm/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/> <a href="https://www.instagram.com/jeewonkimm/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>
 
 
 <br>
