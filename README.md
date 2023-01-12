@@ -9,7 +9,7 @@
   
 👋🏼 Hi, there! My name is Jeewon Kim.
   
-👀 I’m interested in data, and extracting insights from it.
+👀 I’m interested in data and extracting insights from it.
   
 👩🏻‍💻 I’m currently learning Information Technology and Management in Seoul National University of Science and Technology, and Information Technology Management for Business in Northumbria University as a dual degree.
   
