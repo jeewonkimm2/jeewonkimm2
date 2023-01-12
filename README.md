@@ -11,7 +11,7 @@
   
 👀 I’m interested in data and extracting insights from it.
   
-👩🏻‍💻 I’m currently learning Information Technology and Management in Seoul National University of Science and Technology, and Information Technology Management for Business in Northumbria University as a dual degree.
+👩🏻‍💻 I’m currently attending Information Technology and Management in Seoul National University of Science and Technology, and Information Technology Management for Business in Northumbria University as a dual degree.
   
 🇰🇷 I’m currently based in Seoul, South Korea, and my hometown is Mokpo, South Korea.
   
