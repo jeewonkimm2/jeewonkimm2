@@ -36,9 +36,7 @@
   
   ## ✨Contact✨
   
-<a href="mailto:jeewoncoding@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/> <a href="https://www.linkedin.com/in/jeewonkimm/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/> <a href="https://www.instagram.com/jeewonkimm/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>
-
-
+<a href="mailto:jeewoncoding@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/> <a href="https://www.linkedin.com/in/jeewonkimm/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/> 
 <!-- <br>
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeewonkimm2)](https://github.com/anuraghazra/github-readme-stats) 
