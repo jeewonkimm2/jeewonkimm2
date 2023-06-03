@@ -17,8 +17,6 @@
   
 🇬🇧 I lived in London, United Kingdom for 2 years (2019-2021).
   
-👗 I like buying new fashion items.
-  
 🌟 I would like to become a cool data person.
   
 🌏 I believe inspiration is everywhere.
