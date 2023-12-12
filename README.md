@@ -9,7 +9,7 @@
   
 👋🏼 Hi, there! My name is Jeewon Kim.
   
-👀 I’m interested in data, AI and extracting insights from it.
+👀 I’m interested in data, AI and extracting insights from them.
         
 🌏 I believe inspiration is everywhere.
   
