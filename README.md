@@ -9,27 +9,15 @@
   
 👋🏼 Hi, there! My name is Jeewon Kim.
   
-👀 I’m interested in data and extracting insights from it.
-  
-🇰🇷 I’m currently based in Seoul, South Korea, and my hometown is Mokpo, South Korea.
-  
-🇬🇧 I lived in London, United Kingdom for 2 years (2019-2021).
-  
-🌟 I would like to become a cool data person.
-  
+👀 I’m interested in data, AI and extracting insights from it.
+        
 🌏 I believe inspiration is everywhere.
   
-  <br>
-  
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjeewonkimm2&count_bg=%23EBCC37&title_bg=%23805500&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) 
 
-  
-
-  <br>
   
   ## ✨Contact✨
   
-<a href="mailto:jeewoncoding@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/> <a href="https://www.linkedin.com/in/jeewonkimm/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/> 
+<a href="mailto:wldnjsinuk@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/> <a href="https://www.linkedin.com/in/jeewonkimm/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/> 
 <!-- <br>
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeewonkimm2)](https://github.com/anuraghazra/github-readme-stats) 
@@ -40,3 +28,10 @@
 
 </div> -->
 
+  <br>
+  
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjeewonkimm2&count_bg=%23EBCC37&title_bg=%23805500&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) 
+
+  
+
+  <br>
